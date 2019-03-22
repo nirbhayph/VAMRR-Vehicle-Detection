@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/VAMRR-Vehicle-Detection/precache-manifest.2cebac4c4f85717de290087d798ab22f.js"
+  "/VAMRR-Vehicle-Detection/precache-manifest.6ff9c90124f3cd7a420e0ec7f772ad93.js"
 );
 
 workbox.clientsClaim();
