@@ -1,14 +1,15 @@
 {
-  "main.css": "/VAMRR-Vehicle-Detection/static/css/main.6a5e8fde.chunk.css",
-  "main.js": "/VAMRR-Vehicle-Detection/static/js/main.8f8c2df4.chunk.js",
-  "main.js.map": "/VAMRR-Vehicle-Detection/static/js/main.8f8c2df4.chunk.js.map",
+  "main.css": "/VAMRR-Vehicle-Detection/static/css/main.cf874d27.chunk.css",
+  "main.js": "/VAMRR-Vehicle-Detection/static/js/main.cbee9eb0.chunk.js",
+  "main.js.map": "/VAMRR-Vehicle-Detection/static/js/main.cbee9eb0.chunk.js.map",
   "runtime~main.js": "/VAMRR-Vehicle-Detection/static/js/runtime~main.bf3a790d.js",
   "runtime~main.js.map": "/VAMRR-Vehicle-Detection/static/js/runtime~main.bf3a790d.js.map",
-  "static/js/2.8f71a45e.chunk.js": "/VAMRR-Vehicle-Detection/static/js/2.8f71a45e.chunk.js",
-  "static/js/2.8f71a45e.chunk.js.map": "/VAMRR-Vehicle-Detection/static/js/2.8f71a45e.chunk.js.map",
+  "static/css/2.ff1ca143.chunk.css": "/VAMRR-Vehicle-Detection/static/css/2.ff1ca143.chunk.css",
+  "static/js/2.82e637c9.chunk.js": "/VAMRR-Vehicle-Detection/static/js/2.82e637c9.chunk.js",
+  "static/js/2.82e637c9.chunk.js.map": "/VAMRR-Vehicle-Detection/static/js/2.82e637c9.chunk.js.map",
   "index.html": "/VAMRR-Vehicle-Detection/index.html",
-  "precache-manifest.118d5668980a788704b272bc86d29d73.js": "/VAMRR-Vehicle-Detection/precache-manifest.118d5668980a788704b272bc86d29d73.js",
+  "precache-manifest.7284b3b61f75855212f6bc4dc4e060db.js": "/VAMRR-Vehicle-Detection/precache-manifest.7284b3b61f75855212f6bc4dc4e060db.js",
   "service-worker.js": "/VAMRR-Vehicle-Detection/service-worker.js",
-  "static/css/main.6a5e8fde.chunk.css.map": "/VAMRR-Vehicle-Detection/static/css/main.6a5e8fde.chunk.css.map",
-  "static/media/logo.svg": "/VAMRR-Vehicle-Detection/static/media/logo.5d5d9eef.svg"
+  "static/css/2.ff1ca143.chunk.css.map": "/VAMRR-Vehicle-Detection/static/css/2.ff1ca143.chunk.css.map",
+  "static/css/main.cf874d27.chunk.css.map": "/VAMRR-Vehicle-Detection/static/css/main.cf874d27.chunk.css.map"
 }
