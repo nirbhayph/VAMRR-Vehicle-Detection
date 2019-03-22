@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/VAMRR-Vehicle-Detection/static/js/runtime~main.bf3a790d.js"
   },
   {
-    "revision": "6f224d6026d4231eff2c",
-    "url": "/VAMRR-Vehicle-Detection/static/js/main.cbee9eb0.chunk.js"
+    "revision": "6cf951b607bf9096577c",
+    "url": "/VAMRR-Vehicle-Detection/static/js/main.4f75cf60.chunk.js"
   },
   {
     "revision": "085cee6a2c685de31990",
     "url": "/VAMRR-Vehicle-Detection/static/js/2.82e637c9.chunk.js"
   },
   {
-    "revision": "6f224d6026d4231eff2c",
+    "revision": "6cf951b607bf9096577c",
     "url": "/VAMRR-Vehicle-Detection/static/css/main.cf874d27.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/VAMRR-Vehicle-Detection/static/css/2.ff1ca143.chunk.css"
   },
   {
-    "revision": "5285430918d8cc945430e6c5c7721140",
+    "revision": "a8bce9bc7032bf758da9e1292f68bea1",
     "url": "/VAMRR-Vehicle-Detection/index.html"
   }
 ];
