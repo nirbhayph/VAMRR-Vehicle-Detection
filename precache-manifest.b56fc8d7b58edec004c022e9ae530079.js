@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/VAMRR-Vehicle-Detection/static/css/2.ff1ca143.chunk.css"
   },
   {
-    "revision": "171fb04b8ae930576c7c1059876a2afd",
+    "revision": "597c44cb57b46b8d56c0da9176447696",
     "url": "/VAMRR-Vehicle-Detection/index.html"
   }
 ];
