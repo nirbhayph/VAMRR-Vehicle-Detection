@@ -1,4 +1,4 @@
-## Vehicle Damage Detection
+## Deep Learning based Vehicle Damage Detection
 
 Demo : `https://autodetect.ml`
 
