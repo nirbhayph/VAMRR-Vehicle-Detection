@@ -1,6 +1,6 @@
 ## Vehicle Damage Detection
 
-Demo: https://autodetect.ml
+Demo : `https://autodetect.ml`
 
 Deep Learning based Vehicle Damage Detection solution. This repository is linked to the react based web application which is integrated with the mentioned system. 
 
