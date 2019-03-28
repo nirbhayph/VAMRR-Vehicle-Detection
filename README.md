@@ -2,7 +2,7 @@
 
 Demo : `https://autodetect.ml`
 
-Deep learning based vehicle damage detection solution. This repository is linked to the React based web application which is integrated with the mentioned system. 
+This is a Deep learning based vehicle damage identification solution. This repository is linked to the React based web application which is integrated with the mentioned system. 
 
 This is a proof of concept for damage detection of vehicles.
 Labels that can be detected : `Front` `Rear` `Door` `Fender` `Major-Damage` `Minor-Damage` `Scratches`
