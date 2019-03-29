@@ -11,4 +11,23 @@ The React based web application involves uploading your media file(s), waiting f
 
 ### API Documentation
 
+#### Authorization
+
+Every user is identified by their authorization key. All API requests require authentication from a specific user. For example, seeking sessions for a particular user.
+
+Thus, to authenticate requests, pass your access key in the following format:
+
+```
+data {
+  key:"2812174DB9F279DA3FE3BAADA3D0D31B"
+  ...
+}
+```
+Error Messages for Authorization:
+
+```
+Invalid Authorization Key
+```
+
+
 
