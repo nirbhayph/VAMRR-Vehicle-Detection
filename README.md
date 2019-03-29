@@ -286,7 +286,6 @@ Media URLs not passed!
 NOTE: If you encounter any other problems, feel free to open an issue.
 
 Authors:
-Nirbhay Pherwani (@nirbhayph),
-Dhiren Chandnani (@dhirensc)
+(@nirbhayph), (@dhirensc)
 
 VAMRR Technologies Pvt. Ltd.
