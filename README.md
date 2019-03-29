@@ -9,3 +9,6 @@ Labels that can be detected : `Front` `Rear` `Door` `Fender` `Major-Damage` `Min
 
 The React based web application involves uploading your media file(s), waiting for them to get processed and finally seeing your predicted outputs.
 
+### API Documentation
+
+
