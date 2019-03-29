@@ -19,22 +19,18 @@ Thus, to authenticate requests, pass your access key in the following format:
 
 ```
 data {
-  key:"<SPECIFY AUTHORIZATION_KEY HERE>"
+  key:"<SPECIFY AUTHORIZATION_KEY HERE>",
   ...
 }
 ```
-Error Messages for Authorization:
 
-```
-Invalid Authorization Key
-```
 #### Creating and using existing sessions
 
 Every time a user wishes to make a new request, they need to specify the sessionId which can take either of the two values:
 
 ```
 data {
-  session:"new"
+  session:"new",
   ...
 }
 ```
@@ -44,7 +40,7 @@ If the user wishes to not create a new session, the API allows the option to mer
 
 ```
 data {
-  session:"9943213153939"
+  session:"9943213153939",
   ...
 }
 ```
@@ -53,19 +49,19 @@ data {
 The `url` attribute can take the following endpoints:
 
 ```
-url:'https://autodetect.ml/api/request/'
+url:'https://autodetect.ml/api/request/',
 data: {
   ...
 }
 ```
 ```
-url:'https://autodetect.ml/api/lookup/'
+url:'https://autodetect.ml/api/lookup/',
 data: {
   ...
 }
 ```
 ```
-url:'https://autodetect.ml/api/seek/'
+url:'https://autodetect.ml/api/seek/',
 data: {
   ...
 }
@@ -259,3 +255,38 @@ $(document).ready(function(){
     }
 ]
 ```
+
+#### Error Messages
+
+If you encounter any of the following messages, you may have not specified the url/data attributes in the valid format.
+
+```
+Invalid Authorization Key
+
+Session Does Not Exist
+
+Post data not found!
+
+No sessions found
+
+Redundant Process Request
+
+Unauthorized Access
+
+Invalid Media Format (.png, .jpeg, .jpg only)*
+
+Invalid Format for Data Provided, (There may possibly be a problem with the Media URL)
+
+Please check your post data!
+
+Invalid Header Contents
+
+Media URLs not passed!
+```
+NOTE: If you encounter any other problems, feel free to open an issue.
+
+Authors:
+Nirbhay Pherwani (@nirbhayph),
+Dhiren Chandnani (@dhirensc)
+
+VAMRR Technologies Pvt. Ltd.
